@@ -1,7 +1,5 @@
  # 👋 Bem-vindo ao meu perfil!
 
-## Olá! Sou o **Guilherme**, analista de dados.
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat) 
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white&style=flat) 
